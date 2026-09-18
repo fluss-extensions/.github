@@ -1,5 +1,7 @@
-## Note
+## Archived
 
-This GitHub organization provides a neutral place to host the code of ecosystem projects that extend the capability of the Apache Fluss (Incubating). Projects in this organization are ecosystem projects submitted by third parties. They are **NOT** endorsed by the Apache Fluss project or the administrators of this GitHub organization. This GitHub organization is not affiliated with or managed by Apache Fluss, although you may recognize the name of some Apache Fluss committers. We are not checking the license of hosted projects. Please check yourself if the license of a project you intend to use or contribute to is suitable.
+This GitHub organization is archived and no longer maintained.
 
-The legitimacy and permissions of this GitHub organization are still under discussion within the Apache Fluss community.
+Community-contributed extensions and add-ons for Apache Fluss have moved to the [fluss-contrib](https://github.com/fluss-contrib) organization. Please use **fluss-contrib** for active projects, new contributions, issues, and feature requests.
+
+Repositories in this organization are retained for historical reference only and will not receive further updates.
